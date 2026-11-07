@@ -16,7 +16,7 @@ The dataset contains student-related demographic, academic, social, health and l
 
 ## C. GitHub Repository
 
-**GitHub Link:** ADD GITHUB LINK HERE
+**GitHub Link:** https://github.com/29singhania-nsit/student-depression-ml
 
 ## D. Models Used
 
